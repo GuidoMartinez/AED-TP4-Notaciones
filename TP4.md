@@ -34,38 +34,6 @@ No existe una gráfica clara para la instruccion "for"\.
 
 
 
-# **Diagrama de Flujo**
-
-
-
-## *Pros*
-
-
-Favorecen la comprensión del proceso al mostrarlo como un dibujo\. 
-
-Permiten identificar los problemas y las oportunidades de mejora del proceso\. 
-
-Se identifican los pasos redundantes, los flujos de los re-procesos, los conflictos de autoridad, las responsabilidades, los cuellos de botella, y los puntos de decisión\.
-
-Es bastante sencillo y el más utilizado por su fácil comprensión\.
-
-Eficaz\.
-
-Los símbolos utilizados han sido normalizados por el instituto norteamericano de normalización (ANSI)\.
-
-
-
-## *Contras*
-
- 
-No se elaboran con base en los principios de la programación estructurada, ilustran el flujo del programa, pero no su estructura\. 
-
-Requiere de un espacio considerable y cuenta con demasiadas ramificaciones\.
-
-Se lo determina como el más ineficiente de los metodos de diagramacion de un algoritmo\.
-
-
-
 # **Pseudocódigo**
 
 
@@ -130,6 +98,32 @@ Ilustran el flujo del programa pero no su estructura\.
 Las acciones a seguir tras la salida de un símbolo de decisión pueden ser difíciles de seguir si posee existen diferentes caminos\.
 
 No existen normas fijas para la elaboración de este diagrama que permita inlcuir todos los detalles que el usuario desee introducir\.
+
+
+
+# **C++ **
+
+
+
+## *Pros*
+
+La maquina comprende el lenguaje en el que estamos escribiendo\.
+
+Puede probarse su funcionalidad ya que puede compilarse\.
+
+Si el IDE donde se escribe en c++ tiene un debugger, pueden comprobarse los errores \.
+
+
+
+
+## *Contras*
+
+La estructurada sintaxis, en cual la falta de un digito como un ";" puede cambiar la funcionalidad\.
+
+El tiempo que lleva programar un algoritmo \.
+
+Dificultad de seguir el camino del proceso si no se esta haciendo un debug\.
+
 
 
 
